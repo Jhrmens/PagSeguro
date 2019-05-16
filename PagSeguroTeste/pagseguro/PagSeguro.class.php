@@ -1,7 +1,7 @@
 <?php
 class PagSeguro{
 	private $email         = "jhonatan.hms@outlook.com";
-	private $token_sandbox = "3488E344E23647F981DDA0A10018B729";
+	private $token_sandbox = "teste";
 	private $token_oficial = "TOKEN DO PAGSEGURO";
 	private $url_retorno   = "http://localhost/phporientadoaobjetos/PagSeguroTeste/pagseguro/notificacao.php";
 	
